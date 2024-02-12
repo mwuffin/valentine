@@ -1,6 +1,5 @@
 function die(){
     alert("Awesome Sauce!!!!");
-    window.open("https://www.youtube.com/watch?v=tyKu0uZS86Q&ab_channel=Laufey");
     window.location.href = "yes/index.html"; // Replace with your desired link
 }
 function die2(){
